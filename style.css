@@ -1,0 +1,18 @@
+* {
+  margin: 5px;
+  text-align: center;
+}
+.container {
+  display: grid;
+  justify-content: space-evenly;
+  grid-template-columns: 200px 200px 200px;
+  gap: 10px;
+  padding: 70px;
+  background-color: yellow;
+}
+.college {
+  background-color: purple;
+  color: aliceblue;
+  font-size: 20px;
+  padding: 20px;
+}
